@@ -8,6 +8,9 @@ public class SeleniumClass
 		System.out.println("This is my first selenium class");
 System.out.println("We are testing Git Hub");
 System.out.println("Git hub repositiory testing");
+System.out.println("selenium training class");
+System.out.println("Java Automation");
+
 	}
 
 }
